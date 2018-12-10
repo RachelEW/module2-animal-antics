@@ -106,15 +106,4 @@ class Cat(Pet):
             
 Pet.choose_animal(Pet)
 
-#        
-#class FarmAnimal(Animal):
-#    def run(self):
-#        print('run across field')
-#        
-#class Cow(FarmAnimal):
-#    def moo(self):
-#        print('moooooo')
-#
-#class Horse(FarmAnimal):
-#    def whinny(self):
-#        print('neigh')
+
